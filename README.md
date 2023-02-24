@@ -6,9 +6,6 @@ Server requirements;
 
 https://laravel.com/docs/9.x/deployment#server-requirements
 
-Test It Live On;
-
-http://niceye-laravel.herokuapp.com/
 
 Note;
 
