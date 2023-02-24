@@ -1,6 +1,6 @@
 Works with this API;
 
-https://github.com/olcaye/niceye-api
+https://github.com/olcaye/cms-api
 
 Server requirements;
 
